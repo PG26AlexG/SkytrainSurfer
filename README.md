@@ -6,7 +6,8 @@ Unity Version: 2023.2.2
 ### SkytrainSurfer
 This is a class project that I took apart in where I did the Gameplay programming, VFX, and post processing
 
-<img width="414" alt="374371940-639c6d84-18ad-4009-839a-fb26dcbb8b90" src="https://github.com/user-attachments/assets/77fda073-2d46-48d8-867f-3054d614a6ca">
+![RunSHorter](https://github.com/user-attachments/assets/426e54dc-bb16-46ff-a400-2d658aae2fc6)
+
 
 ### Movement
 When writing the movement code the decision to keep the player stationary was made to allow the world generation and the curve of the world code simpler.
@@ -16,6 +17,8 @@ I took control over the specifics on how the character moves so that the jump an
 When dealing with the state transitions when doing two states in quick sucuession it took some time to dial in those transitions to avoid them appearing broken or janky.
 I resolved it by taking account of the player's vertical position and applying it as an offset, as well as taking the player's active lane into account with the other calcuations.
 This avoided any weird hops or freezes in the character's movement.
+
+![swiggleShort](https://github.com/user-attachments/assets/433f8935-b240-4145-b860-34d1da46cb74)
 
 
 ## VFX
@@ -32,3 +35,5 @@ The final VFX I added was the coin collection VFX. It, like the trail is a defau
 
 #### Challenges
 With the smoke VFX the challenge I found was adding the shader onto the VFX due to a lack of documentation. After a little bit of research on the open web I definately found a way to add the shader onto the VFX which gave me n effect that I was pretty happy with.
+
+![SlideShorter](https://github.com/user-attachments/assets/94805473-d189-45d9-af6b-08d326347718)
