@@ -37,3 +37,14 @@ The final VFX I added was the coin collection VFX. It, like the trail is a defau
 With the smoke VFX the challenge I found was adding the shader onto the VFX due to a lack of documentation. After a little bit of research on the open web I definately found a way to add the shader onto the VFX which gave me n effect that I was pretty happy with.
 
 ![SlideShorter](https://github.com/user-attachments/assets/94805473-d189-45d9-af6b-08d326347718)
+
+
+# Contributers
+- [pg26alex](https://github.com/PG26AlexG)
+- [pg26alisa](https://github.com/PG26Alisa)
+- [pg26max](https://github.com/maxgreenkirby)
+- [pg26preetham](https://github.com/PG26Preetham)
+- [pg26spencer](https://github.com/pg26spencer)
+- [pg26levi](https://github.com/pg26levi)
+- [pg26henry](https://github.com/PG26HenryWilliams)
+- [pg26sebastien](https://github.com/SzK14)
